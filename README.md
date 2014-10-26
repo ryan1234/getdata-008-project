@@ -6,9 +6,9 @@ All the code required for generating the required tidy set is in run_analysis.R
 #### Requirements
 The script uses the following packages:
 
-LaF (for reading large data files quickly)
-ffbase (a requirement of LaF)
-reshape2
+`LaF` (for reading large data files quickly)
+`ffbase` (a requirement of LaF)
+`reshape2`
 
 Commands to install these packages before running the script:
 
